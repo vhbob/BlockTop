@@ -1,0 +1,23 @@
+inventory-items:
+  daily:
+    slot: 19
+    type: 'IRON_BLOCK'
+    name: '&F&LDaily Tournament'
+  weekly:
+    slot: 21
+    type: 'GOLD_BLOCK'
+    name: '&6&LWeekly Tournament'
+  monthly:
+    slot: 23
+    type: 'DIAMOND_BLOCK'
+    name: '&B&LMonthly Tournament'
+  custom:
+    slot: 25
+    type: 'EMERALD_BLOCK'
+    name: '&A&LSpecial Tournament'
+  p-stats:
+    slot: 13
+  claim:
+    slot: 31
+    type: 'CHEST'
+    name: '&6&LClaim your rewards!'

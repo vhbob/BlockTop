@@ -1,0 +1,15 @@
+name: TopMiner
+author: Vhbob
+version: 1.0
+description: This plugin allows users to create block breaking contests
+main: com.vhbob.blocktop.BlockTopPlugin
+depend: [TokenEnchant]
+commands: 
+  CreateContest:
+    permission: contest.create
+    description: Use this to create contests
+  TopMiner:
+    description: Open the TopMiner GUI
+  Rewards:
+    permission: reward.edit
+    description: add a reward 
